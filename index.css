@@ -1,0 +1,27 @@
+
+.box {
+    background-color: lightgrey;
+    width: 400px;
+    border: 1px solid black;
+    border-radius:35px;
+    padding-bottom: 200px;
+  }
+  .boxstyle{
+      display: flex;
+      justify-content:center;
+      padding-top: 50px;
+  }
+ .text{
+     text-align: center;
+ }
+ .p1{
+     
+     border-radius:50px;
+     text-decoration-color:lightgoldenrodyellow;
+ }
+ select,input{
+     border-radius:25px;
+ }
+ .bgcl{
+     background-color: aqua;
+ }
